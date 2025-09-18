@@ -1,6 +1,8 @@
 # Data Structures and Algorithms (DSA) In Java
 
-This  repository is for the students of book [Data Structures and Algorithms In Java](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50) and online courses available on CourseGalaxy. It contains the source code of all the programs used in the book and courses.
+This  repository is for the students of book [Data Structures and Algorithms In Java](https://www.amazon.in/dp/B0FRFSGB8C) and online courses available on CourseGalaxy. It contains the source code of all the programs used in the book and courses.
+
+[![comprehensive-data-structures-algorithms-java](https://github.com/user-attachments/assets/089277dd-c7d1-4ad8-b634-f2ce65a6dd30)](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579)
 
 ### About the DSA Masterclass Courses
  * Thoroughly detailed courses with complete working programs
